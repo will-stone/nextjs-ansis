@@ -11,3 +11,5 @@ npm run dev
 
 You can see the Ansis-logged line in the terminal is not coloured. Please see
 `./middleware.ts` file.
+
+Fixed with Ansis version `1.6.0-beta.0`.
